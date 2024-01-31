@@ -1,0 +1,5 @@
+
+/node_modules
+node_modules *
+/front_end/node_modules
+/GraphQltest_backend/node_modules
